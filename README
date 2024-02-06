@@ -1,0 +1,1 @@
+This repository is a prototype to test healthkit on iOS. The prototype gathers health data from an apple watch and allow developers to investigate where the health data is stored.
